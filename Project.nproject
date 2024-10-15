@@ -1,7 +1,7 @@
 {
     "name": "Tanks Alot",
     "guid": "8b779668-9384-43fa-81f3-5e81323f614e",
-    "database_guid": "542e277a-5ade-16cd-90fc-14d32b1e05e9",
+    "database_guid": "71943332-66fd-1f74-e550-d8e5d1eee17d",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
