@@ -1,0 +1,155 @@
+{
+    "guid": "240bdf86-d203-4505-8f49-444863630da1",
+    "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[19.848268508911134,-22.087072372436525,12.785843849182129],\"rotation\":[-47.575714111328128,-5.771046289737569e-7,48.05885696411133]}"
+    },
+    "type_version": 1,
+    "children": [
+        {
+            "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
+            "data_components": [
+                {
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                },
+                {
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "9fc4ce8c-8bdc-4778-843d-cc0512c5fc86"
+                },
+                {
+                    "typeGuid": "c7fc013b-c806-486b-a3a3-30285721d9b9"
+                },
+                {
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                },
+                {
+                    "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e",
+                    "shouldRestartOnNoLives": true
+                },
+                {
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                },
+                {
+                    "typeGuid": "8963059c-1a83-4475-88f3-f094f1a2c3e2"
+                },
+                {
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                }
+            ]
+        },
+        {
+             "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+              "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                 "rotation": [
+                     -90, 0, 0
+                 ]
+             },
+             "data_components": [
+                 {
+                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                     "name": "Directional Gravity"
+                 }
+             ]
+         },
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.1403,
+                    55.686,
+                    11.3044
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "019475f3-4180-74ae-b01f-03405d28b3f7",
+                "prefiltered": "019475f3-41c1-7cb6-88f9-500af94f9c04"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
+                }
+            ]
+        },
+        {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    13.5,
+                    -7.0,
+                    2.5
+                ]
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "db4b2fe1-c140-411a-ba07-67b239d9a1e7"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "scale": [
+                    100.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
+                "material_instance": "b5c48a96-8fee-4383-af59-8be48c359a54"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
+}
